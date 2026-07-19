@@ -1,0 +1,38 @@
+{
+  "SnapshotId": "20260405042010_4473d796",
+  "CapturedUtc": "2026-04-05T04:20:10.6382045+00:00",
+  "NormalisedContentHash": "95782D13E64A6808796CFCB3727C4E11462431445E38B5852E1452F3111C5372",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "TextRuler",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\TextRuler\\TextRuler.sln",
+    "SolutionKey": "86B5202597366304",
+    "SourceIdentity": {
+      "IdentityKey": "86B5202597366304",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\TextRuler\\TextRuler.sln",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\TextRuler",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "40C99024C57EB8CC",
+      "ProjectName": "TextRuler",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\TextRuler\\TextRuler\\TextRuler.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": null,
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    }
+  ],
+  "Warnings": []
+}

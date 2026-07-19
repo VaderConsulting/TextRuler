@@ -1,0 +1,23 @@
+D:\Docs\OneDrive\VS Projects\B4x\TextRuler\TextRuler\bin\Debug\TextRuler.exe
+D:\Docs\OneDrive\VS Projects\B4x\TextRuler\TextRuler\bin\Debug\TextRuler.pdb
+D:\Docs\OneDrive\VS Projects\B4x\TextRuler\TextRuler\obj\Debug\TextRuler.csprojResolveAssemblyReference.cache
+D:\Docs\OneDrive\VS Projects\B4x\TextRuler\TextRuler\obj\Debug\TextRuler.Form1.resources
+D:\Docs\OneDrive\VS Projects\B4x\TextRuler\TextRuler\obj\Debug\TextRuler.Properties.Resources.resources
+D:\Docs\OneDrive\VS Projects\B4x\TextRuler\TextRuler\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+D:\Docs\OneDrive\VS Projects\B4x\TextRuler\TextRuler\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+D:\Docs\OneDrive\VS Projects\B4x\TextRuler\TextRuler\obj\Debug\TextRuler.csproj.GenerateResource.Cache
+D:\Docs\OneDrive\VS Projects\B4x\TextRuler\TextRuler\obj\Debug\TextRuler.exe
+D:\Docs\OneDrive\VS Projects\B4x\TextRuler\TextRuler\obj\Debug\TextRuler.pdb
+C:\Users\windo\OneDrive\Documents\Development\TextRuler\TextRuler\bin\Debug\TextRuler.exe.config
+C:\Users\windo\OneDrive\Documents\Development\TextRuler\TextRuler\bin\Debug\TextRuler.exe
+C:\Users\windo\OneDrive\Documents\Development\TextRuler\TextRuler\bin\Debug\TextRuler.pdb
+C:\Users\windo\OneDrive\Documents\Development\TextRuler\TextRuler\obj\Debug\TextRuler.csproj.AssemblyReference.cache
+C:\Users\windo\OneDrive\Documents\Development\TextRuler\TextRuler\obj\Debug\TextRuler.Form1.resources
+C:\Users\windo\OneDrive\Documents\Development\TextRuler\TextRuler\obj\Debug\TextRuler.Properties.Resources.resources
+C:\Users\windo\OneDrive\Documents\Development\TextRuler\TextRuler\obj\Debug\TextRuler.AdvancedTextEditorControl.AdvancedTextEditor.resources
+C:\Users\windo\OneDrive\Documents\Development\TextRuler\TextRuler\obj\Debug\TextRuler.Dialogs.dlgFind.resources
+C:\Users\windo\OneDrive\Documents\Development\TextRuler\TextRuler\obj\Debug\TextRuler.csproj.GenerateResource.cache
+C:\Users\windo\OneDrive\Documents\Development\TextRuler\TextRuler\obj\Debug\TextRuler.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\TextRuler\TextRuler\obj\Debug\TextRuler.exe
+C:\Users\windo\OneDrive\Documents\Development\TextRuler\TextRuler\obj\Debug\TextRuler.pdb
+C:\Users\windo\OneDrive\Documents\Development\TextRuler\TextRuler\obj\Debug\TextRuler.csproj.SuggestedBindingRedirects.cache
