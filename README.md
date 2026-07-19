@@ -1,4 +1,6 @@
-﻿# TextRuler
+﻿> **Attribution:** Based on work by **Andrey Lundin** ([Advanced Text Editor with Ruler](https://www.codeproject.com/Articles/22783/Advanced-Text-Editor-with-Ruler), CodeProject 2008, CPOL). See [LICENSE](LICENSE) for details.
+
+# TextRuler
 
 A .NET Framework 4.8 Windows Forms application demonstrating a rich-text editor paired with a fully interactive **Word-style ruler control**.
 
