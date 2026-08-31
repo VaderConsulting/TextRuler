@@ -4,6 +4,8 @@
 
 A .NET Framework 4.8 Windows Forms application demonstrating a rich-text editor paired with a fully interactive **Word-style ruler control**.
 
+**Source last updated:** 2015-02-04
+
 **Initiated:** 2015-02-10 · **Framework:** .NET Framework 4.8 · **Solution:** `TextRuler.sln`
 
 ---
