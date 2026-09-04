@@ -48,3 +48,8 @@ TextRuler/
 |   +-- FontComboBoxControl/FontComboBox.cs
 +-- Dialogs/dlgFind.cs
 ```
+
+## Requirements
+
+- Visual Studio 2013, .NET Framework 4.8
+
