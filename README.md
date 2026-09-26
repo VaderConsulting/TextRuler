@@ -1,55 +1,28 @@
-﻿> **Attribution:** Based on work by **Andrey Lundin** ([Advanced Text Editor with Ruler](https://www.codeproject.com/Articles/22783/Advanced-Text-Editor-with-Ruler), CodeProject 2008, CPOL). See [LICENSE](LICENSE) for details.
-
 # TextRuler
 
-A .NET Framework 4.8 Windows Forms application demonstrating a rich-text editor paired with a fully interactive **Word-style ruler control**.
+C# WinForms rich-text editor demo with a Word-style ruler control. The `TextRuler` UserControl draws a graduated ruler with draggable left indent, hanging indent, right indent, left and right margin, and tab-stop markers, raising events such as `LeftIndentChanging`, `TabAdded`, and `TabRemoved`. `AdvancedTextEditor` wraps an extended `RichTextBox` with a formatting toolbar (bold, italic, underline, strikeout, font picker, open and save) and a Find dialog.
 
-**Source last updated:** 2015-02-04
+**Source last updated:** 2022-05-01 · **Language:** C# · **Target:** .NET Framework 4.8 · **Output:** WinForms exe
 
-**Initiated:** 2015-02-10 · **Framework:** .NET Framework 4.8 · **Solution:** `TextRuler.sln`
+## Solution structure
 
----
+| Project | Language | Type | Purpose |
+|---------|----------|------|---------|
+| `TextRuler` (`TextRuler/TextRuler.csproj`) | C# | WinForms exe | Ruler UserControl, AdvancedTextEditor, FontComboBox, ExtendedRichTextBox, and Find dialog hosted on Form1 |
 
-## Overview
+## How to open
 
-Provides the building blocks for a document editor with the familiar ruler bar found in word processors. The ruler supports draggable left indent, hanging indent, right indent, left margin, right margin, and tab-stop markers.
-
----
-
-## Components
-
-### TextRuler (user control)
-
-Custom `UserControl` rendering a graduated ruler with draggable handles:
-
-| Handle | Event raised |
-|--------|-------------|
-| Left indent (upper) | `LeftIndentChanging` |
-| Left hanging indent (lower) | `LeftHangingIndentChanging` |
-| Right indent | `RightIndentChanging` |
-| Left margin | `LeftMarginChanging` |
-| Right margin | `RightMarginChanging` |
-| Tab stops | `TabAdded` / `TabChanged` / `TabRemoved` |
-
-### AdvancedTextEditor (user control)
-
-`RichTextBox` wrapper with formatting toolbar: Bold, Italic, Underline, Strikeout, Font selector, File open/save.
-
----
-
-## Project Structure
-
-```
-TextRuler/
-+-- ExtendedRichTextBox.cs
-+-- TextRulerControl/TextRuler.cs          # Ruler user control
-+-- AdvancedTextEditorControl/
-|   +-- AdvancedTextEditor.cs
-|   +-- FontComboBoxControl/FontComboBox.cs
-+-- Dialogs/dlgFind.cs
-```
+Open `TextRuler.sln` in Visual Studio and run the `TextRuler` project.
 
 ## Requirements
 
-- Visual Studio 2013, .NET Framework 4.8
+- Visual Studio 2019 or 2022 (solution Format Version 12.00, originally Visual Studio 2013)
+- .NET Framework 4.8 Developer Pack
 
+## Attribution and provenance
+
+Original author Andrey Lundin, CodeProject article [Advanced Text Editor with Ruler](https://www.codeproject.com/Articles/22783/Advanced-Text-Editor-with-Ruler) (January 2008, CPOL). `ExtendedRichTextBox.cs` is by Oscar Londono ([MyExtRichTextBox](http://www.codeproject.com/KB/edit/MyExtRichTextBox.aspx), CPOL). AssemblyCompany `Home`; AssemblyCopyright `Copyright © Home 2008`. Working copy from my Development folder `TextRuler`, retargeted to .NET Framework 4.8.
+
+## License
+
+Original license terms apply (Code Project Open License / CPOL). No copyright is claimed over this code by VaderConsulting. See `LICENSE`.
