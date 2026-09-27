@@ -21,6 +21,8 @@ Open `TextRuler.sln` in Visual Studio and run the `TextRuler` project.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 Original author Andrey Lundin, CodeProject article [Advanced Text Editor with Ruler](https://www.codeproject.com/Articles/22783/Advanced-Text-Editor-with-Ruler) (January 2008, CPOL). `ExtendedRichTextBox.cs` is by Oscar Londono ([MyExtRichTextBox](http://www.codeproject.com/KB/edit/MyExtRichTextBox.aspx), CPOL). AssemblyCompany `Home`; AssemblyCopyright `Copyright © Home 2008`. Working copy from my Development folder `TextRuler`, retargeted to .NET Framework 4.8.
 
 ## License
