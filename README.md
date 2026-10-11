@@ -27,4 +27,4 @@ Original author Andrey Lundin, CodeProject article [Advanced Text Editor with Ru
 
 ## License
 
-Original license terms apply (Code Project Open License / CPOL). No copyright is claimed over this code by VaderConsulting. See `LICENSE`.
+Original license terms apply (Code Project Open License / CPOL). No copyright is claimed over this code by Vader Consulting. See `LICENSE`.
